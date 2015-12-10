@@ -1,0 +1,1 @@
+mergesort.d: ../mergesort.cpp

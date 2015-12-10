@@ -1,0 +1,1 @@
+TestAverage.d: ../TestAverage.cpp

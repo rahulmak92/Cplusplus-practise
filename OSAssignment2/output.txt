@@ -1,0 +1,186 @@
+value: 0.968434
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 20
+
+value: 0.991807
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 60
+
+value: 0.998818
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 140
+
+value: 0.995575
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 200
+
+value: 0.98411
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 260
+
+value: 0.961725
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 280
+
+value: 0.961026
+io_value: 0.999226
+io_length: 0
+execution_time: 0
+total_ticks: 360
+
+value: 0.964475
+io_value: 0.99762
+io_length: 0
+execution_time: 0
+total_ticks: 520
+
+value: 0.990871
+io_value: 0.990965
+io_length: 0
+execution_time: 0
+total_ticks: 540
+
+value: 0.987663
+io_value: 0.990028
+io_length: 0
+execution_time: 0
+total_ticks: 640
+
+value: 0.964073
+io_value: 0.983654
+io_length: 0
+execution_time: 0
+total_ticks: 700
+
+value: 0.99414
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 700
+
+value: 0.984612
+io_value: 0.999426
+io_length: 0
+execution_time: 0
+total_ticks: 760
+
+value: 0.997927
+io_value: 0.983513
+io_length: 0
+execution_time: 0
+total_ticks: 780
+
+value: 0.98985
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 800
+
+value: 0.992498
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 880
+
+value: 0.96972
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 920
+
+value: 0.970284
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 940
+
+value: 0.964608
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 1000
+
+value: 0.960379
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 1020
+
+value: 0.990402
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 1060
+
+value: 0.972259
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 1080
+
+value: 0.997014
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 1120
+
+value: 0.991356
+io_value: 0.986654
+io_length: 0
+execution_time: 0
+total_ticks: 1120
+
+value: 0.989538
+io_value: 0.99337
+io_length: 0
+execution_time: 0
+total_ticks: 1120
+
+value: 0.966791
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 1160
+
+value: 0.981118
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 1180
+
+value: 0.997517
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 1180
+
+value: 0.965616
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 1300
+
+value: 0.996349
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 1300
+
+value: 0.97509
+io_value: 0
+io_length: 0
+execution_time: 0
+total_ticks: 1340
+

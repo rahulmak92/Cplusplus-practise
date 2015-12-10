@@ -1,0 +1,1 @@
+SumOfNumbers.d: ../SumOfNumbers.cpp

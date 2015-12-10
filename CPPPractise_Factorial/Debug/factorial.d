@@ -1,0 +1,1 @@
+factorial.d: ../factorial.cpp

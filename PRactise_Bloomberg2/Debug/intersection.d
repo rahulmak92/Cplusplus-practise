@@ -1,0 +1,1 @@
+intersection.d: ../intersection.cpp
