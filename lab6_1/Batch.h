@@ -1,0 +1,1 @@
+// Lab 6 exercise 1, header file// Fall 2014class Batch        {private:    int *elements;    int num;public:    Batch ();    Batch (const Batch &);    ~Batch ();        int count() const;    void insert(int element);    bool find(int element) const;        bool operator==(const Batch &);    Batch operator+(const Batch &);    };
